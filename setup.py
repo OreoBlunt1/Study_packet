@@ -6,7 +6,7 @@ setup(name='conman',
  
       version='0.3',
  
-      url='https://github.com/the-gigi/conman',
+      url='https://github.com/OreoBlunt1/Study_packet.git',
  
       license='MIT',
  
